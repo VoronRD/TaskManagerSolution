@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AGANETHED\\Desktop\\\u043D\u0430 \u043A\u043E\u043C\u043C\u0438\u0442\\TaskManagerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44E5280C-B198-4107-B25C-49F0A1FF9030}|TaskManager.Shell\\TaskManager.Shell.csproj|c:\\users\\aganethed\\desktop\\\u043D\u0430 \u043A\u043E\u043C\u043C\u0438\u0442\\taskmanagersolution\\taskmanager.shell\\taskmanager.shell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44E5280C-B198-4107-B25C-49F0A1FF9030}|TaskManager.Shell\\TaskManager.Shell.csproj|solutionrelative:taskmanager.shell\\taskmanager.shell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManager.Shell.csproj",
+              "DocumentMoniker": "C:\\Users\\AGANETHED\\Desktop\\\u043D\u0430 \u043A\u043E\u043C\u043C\u0438\u0442\\TaskManagerSolution\\TaskManager.Shell\\TaskManager.Shell.csproj",
+              "RelativeDocumentMoniker": "TaskManager.Shell\\TaskManager.Shell.csproj",
+              "ToolTip": "C:\\Users\\AGANETHED\\Desktop\\\u043D\u0430 \u043A\u043E\u043C\u043C\u0438\u0442\\TaskManagerSolution\\TaskManager.Shell\\TaskManager.Shell.csproj",
+              "RelativeToolTip": "TaskManager.Shell\\TaskManager.Shell.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T13:43:54.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Infrastructure.deps.json
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.AssemblyInfo.cs
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\refint\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\ref\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Infrastructure.deps.json
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.AssemblyInfo.cs
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Infrastructure\obj\Debug\net8.0-windows\refint\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Infrastructure\obj\Debug\net8.0-windows\ref\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Infrastructure.deps.json
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.AssemblyInfo.cs
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\refint\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\ref\TaskManager.Infrastructure.dll

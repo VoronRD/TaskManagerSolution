@@ -1,0 +1,66 @@
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.SettingsModule.deps.json
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.SettingsModule.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.SettingsModule.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.AssemblyInfoInputs.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.AssemblyInfo.cs
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.csproj.CoreCompileInputs.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\refint\TaskManager.SettingsModule.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\ref\TaskManager.SettingsModule.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.Core.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.Core.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.csproj.AssemblyReference.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule_MarkupCompile.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule_MarkupCompile.lref
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\View\SettingsView.baml
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.g.resources
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskMana.084C6828.Up2Date
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.SettingsModule.deps.json
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.SettingsModule.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.SettingsModule.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.Core.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.Core.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.csproj.AssemblyReference.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule_MarkupCompile.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule_MarkupCompile.lref
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\obj\Debug\net8.0-windows\View\SettingsView.baml
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.g.resources
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.AssemblyInfoInputs.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.AssemblyInfo.cs
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.csproj.CoreCompileInputs.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskMana.084C6828.Up2Date
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\obj\Debug\net8.0-windows\refint\TaskManager.SettingsModule.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.SettingsModule\obj\Debug\net8.0-windows\ref\TaskManager.SettingsModule.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.SettingsModule.deps.json
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.SettingsModule.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.SettingsModule.pdb
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.Core.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.Core.pdb
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\bin\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.csproj.AssemblyReference.cache
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule_MarkupCompile.cache
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule_MarkupCompile.lref
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\View\SettingsView.baml
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.g.resources
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.AssemblyInfoInputs.cache
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.AssemblyInfo.cs
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.csproj.CoreCompileInputs.cache
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskMana.084C6828.Up2Date
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\refint\TaskManager.SettingsModule.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\TaskManager.SettingsModule.pdb
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\ref\TaskManager.SettingsModule.dll

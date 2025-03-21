@@ -1,0 +1,129 @@
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Shell.exe
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Shell.deps.json
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Shell.runtimeconfig.json
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Shell.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Shell.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.Container.Abstractions.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.Container.Unity.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.Events.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.Unity.Wpf.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.Wpf.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Unity.Abstractions.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Unity.Container.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Core.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.SettingsModule.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.TagsModule.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.TasksModule.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Core.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.SettingsModule.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.TagsModule.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.TasksModule.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.csproj.AssemblyReference.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell_MarkupCompile.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.AssemblyInfoInputs.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.AssemblyInfo.cs
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.csproj.CoreCompileInputs.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskMana.D1999E3C.Up2Date
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\refint\TaskManager.Shell.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.genruntimeconfig.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\ref\TaskManager.Shell.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell_MarkupCompile.lref
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\AGANETHED\Desktop\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.g.resources
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Shell.exe
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Shell.deps.json
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Shell.runtimeconfig.json
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Shell.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Shell.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.Container.Abstractions.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.Container.Unity.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.Events.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.Unity.Wpf.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.Wpf.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\Unity.Abstractions.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\Unity.Container.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Core.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.SettingsModule.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.TagsModule.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.TasksModule.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Core.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.SettingsModule.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.TagsModule.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.TasksModule.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.csproj.AssemblyReference.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell_MarkupCompile.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell_MarkupCompile.lref
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.g.resources
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.AssemblyInfoInputs.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.AssemblyInfo.cs
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.csproj.CoreCompileInputs.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\TaskMana.D1999E3C.Up2Date
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\refint\TaskManager.Shell.dll
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.pdb
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.genruntimeconfig.cache
+C:\Users\AGANETHED\Desktop\TaskManagerSolution — копия\TaskManager.Shell\obj\Debug\net8.0-windows\ref\TaskManager.Shell.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Shell.exe
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Shell.deps.json
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Shell.runtimeconfig.json
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Shell.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Shell.pdb
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.Container.Abstractions.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.Container.Unity.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.Events.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.Unity.Wpf.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Prism.Wpf.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Unity.Abstractions.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\Unity.Container.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Core.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.SettingsModule.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.TagsModule.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.TasksModule.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Core.pdb
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.SettingsModule.pdb
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.TagsModule.pdb
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\bin\Debug\net8.0-windows\TaskManager.TasksModule.pdb
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.csproj.AssemblyReference.cache
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell_MarkupCompile.cache
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell_MarkupCompile.lref
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.g.resources
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.AssemblyInfoInputs.cache
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.AssemblyInfo.cs
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.csproj.CoreCompileInputs.cache
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskMana.D1999E3C.Up2Date
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\refint\TaskManager.Shell.dll
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.pdb
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\TaskManager.Shell.genruntimeconfig.cache
+C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Shell\obj\Debug\net8.0-windows\ref\TaskManager.Shell.dll
