@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace TaskManager.Core.Enums
 {
-    internal class RepeatInterval
+    public enum RepeatInterval
     {
+        None,
+        Daily,
+        Weekly,
+        Monthly
     }
 }

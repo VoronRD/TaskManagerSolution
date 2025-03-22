@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace TaskManager.Core.Enums
 {
-    internal class TaskStatus
+    public enum TasksStatus
     {
+        InProgress,
+        Completed,
+        OnHold
     }
 }

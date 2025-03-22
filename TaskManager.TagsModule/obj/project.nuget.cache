@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kvp5XO5xJ+8=",
+  "dgSpecHash": "CwPn3rQauow=",
   "success": true,
-  "projectFilePath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.TagsModule\\TaskManager.TagsModule.csproj",
+  "projectFilePath": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.TagsModule\\TaskManager.TagsModule.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AGANETHED\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\AGANETHED\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.122\\microsoft.xaml.behaviors.wpf.1.1.122.nupkg.sha512",

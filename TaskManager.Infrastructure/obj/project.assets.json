@@ -248,11 +248,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
       "projectName": "TaskManager.Infrastructure",
-      "projectPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\AGANETHED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

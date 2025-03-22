@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.SettingsModule\\TaskManager.SettingsModule.csproj": {}
+    "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.SettingsModule\\TaskManager.SettingsModule.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj": {
+    "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj",
+        "projectUniqueName": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj",
         "projectName": "TaskManager.Core",
-        "projectPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj",
+        "projectPath": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj",
         "packagesPath": "C:\\Users\\AGANETHED\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Core\\obj\\",
+        "outputPath": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj": {
+    "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
         "projectName": "TaskManager.Infrastructure",
-        "projectPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\AGANETHED\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.SettingsModule\\TaskManager.SettingsModule.csproj": {
+    "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.SettingsModule\\TaskManager.SettingsModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.SettingsModule\\TaskManager.SettingsModule.csproj",
+        "projectUniqueName": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.SettingsModule\\TaskManager.SettingsModule.csproj",
         "projectName": "TaskManager.SettingsModule",
-        "projectPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.SettingsModule\\TaskManager.SettingsModule.csproj",
+        "projectPath": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.SettingsModule\\TaskManager.SettingsModule.csproj",
         "packagesPath": "C:\\Users\\AGANETHED\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.SettingsModule\\obj\\",
+        "outputPath": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.SettingsModule\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -178,11 +178,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj": {
-                "projectPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj"
+              "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj": {
+                "projectPath": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj"
               },
-              "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj"
+              "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj"
               }
             }
           }

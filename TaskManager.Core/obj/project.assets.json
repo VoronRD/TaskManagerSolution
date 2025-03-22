@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj",
+      "projectUniqueName": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj",
       "projectName": "TaskManager.Core",
-      "projectPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj",
+      "projectPath": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj",
       "packagesPath": "C:\\Users\\AGANETHED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Core\\obj\\",
+      "outputPath": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

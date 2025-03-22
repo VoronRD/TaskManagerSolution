@@ -70,3 +70,28 @@ C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Tag
 C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\refint\TaskManager.TagsModule.dll
 C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\TaskManager.TagsModule.pdb
 C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\ref\TaskManager.TagsModule.dll
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\bin\Debug\net8.0-windows\TaskManager.TagsModule.deps.json
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\bin\Debug\net8.0-windows\TaskManager.TagsModule.dll
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\bin\Debug\net8.0-windows\TaskManager.TagsModule.pdb
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\bin\Debug\net8.0-windows\TaskManager.Core.dll
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\bin\Debug\net8.0-windows\TaskManager.Infrastructure.dll
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\bin\Debug\net8.0-windows\TaskManager.Core.pdb
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\bin\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\TaskManager.TagsModule.csproj.AssemblyReference.cache
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\View\TagEditView.g.cs
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\View\TagListView.g.cs
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\TaskManager.TagsModule_MarkupCompile.cache
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\TaskManager.TagsModule_MarkupCompile.lref
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\View\TagEditView.baml
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\View\TagListView.baml
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\TaskManager.TagsModule.g.resources
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\TaskManager.TagsModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\TaskManager.TagsModule.AssemblyInfoInputs.cache
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\TaskManager.TagsModule.AssemblyInfo.cs
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\TaskManager.TagsModule.csproj.CoreCompileInputs.cache
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\TaskManager.TagsModule.sourcelink.json
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\TaskMana.FB2B8815.Up2Date
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\TaskManager.TagsModule.dll
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\refint\TaskManager.TagsModule.dll
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\TaskManager.TagsModule.pdb
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.TagsModule\obj\Debug\net8.0-windows\ref\TaskManager.TagsModule.dll

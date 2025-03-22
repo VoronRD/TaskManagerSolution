@@ -1,9 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AGANETHED\\Desktop\\\u043D\u0430 \u043A\u043E\u043C\u043C\u0438\u0442\\TaskManagerSolution\\",
+  "WorkspaceRootPath": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44E5280C-B198-4107-B25C-49F0A1FF9030}|TaskManager.Shell\\TaskManager.Shell.csproj|c:\\users\\aganethed\\desktop\\\u043D\u0430 \u043A\u043E\u043C\u043C\u0438\u0442\\taskmanagersolution\\taskmanager.shell\\taskmanager.shell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AFCBFA61-B6DE-4759-A4FC-095EE290E2B5}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\aganethed\\desktop\\pl\\taskmanagersolution\\taskmanager.core\\enums\\tagcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCBFA61-B6DE-4759-A4FC-095EE290E2B5}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\enums\\tagcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCBFA61-B6DE-4759-A4FC-095EE290E2B5}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\aganethed\\desktop\\pl\\taskmanagersolution\\taskmanager.core\\enums\\tasksstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCBFA61-B6DE-4759-A4FC-095EE290E2B5}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\enums\\tasksstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCBFA61-B6DE-4759-A4FC-095EE290E2B5}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\aganethed\\desktop\\pl\\taskmanagersolution\\taskmanager.core\\models\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCBFA61-B6DE-4759-A4FC-095EE290E2B5}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\models\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCBFA61-B6DE-4759-A4FC-095EE290E2B5}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\aganethed\\desktop\\pl\\taskmanagersolution\\taskmanager.core\\enums\\repeatinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCBFA61-B6DE-4759-A4FC-095EE290E2B5}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\enums\\repeatinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCBFA61-B6DE-4759-A4FC-095EE290E2B5}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\aganethed\\desktop\\pl\\taskmanagersolution\\taskmanager.core\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCBFA61-B6DE-4759-A4FC-095EE290E2B5}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCBFA61-B6DE-4759-A4FC-095EE290E2B5}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\aganethed\\desktop\\pl\\taskmanagersolution\\taskmanager.core\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCBFA61-B6DE-4759-A4FC-095EE290E2B5}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E5280C-B198-4107-B25C-49F0A1FF9030}|TaskManager.Shell\\TaskManager.Shell.csproj|c:\\users\\aganethed\\desktop\\pl\\taskmanagersolution\\taskmanager.shell\\taskmanager.shell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{44E5280C-B198-4107-B25C-49F0A1FF9030}|TaskManager.Shell\\TaskManager.Shell.csproj|solutionrelative:taskmanager.shell\\taskmanager.shell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -14,20 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksStatus.cs",
+              "DocumentMoniker": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\Enums\\TasksStatus.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Enums\\TasksStatus.cs",
+              "ToolTip": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\Enums\\TasksStatus.cs",
+              "RelativeToolTip": "TaskManager.Core\\Enums\\TasksStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:14:36.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TagColor.cs",
+              "DocumentMoniker": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\Enums\\TagColor.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Enums\\TagColor.cs",
+              "ToolTip": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\Enums\\TagColor.cs",
+              "RelativeToolTip": "TaskManager.Core\\Enums\\TagColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:12:25.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Models\\Tasks.cs",
+              "ToolTip": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\Models\\Tasks.cs",
+              "RelativeToolTip": "TaskManager.Core\\Models\\Tasks.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:11:06.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepeatInterval.cs",
+              "DocumentMoniker": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\Enums\\RepeatInterval.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Enums\\RepeatInterval.cs",
+              "ToolTip": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\Enums\\RepeatInterval.cs",
+              "RelativeToolTip": "TaskManager.Core\\Enums\\RepeatInterval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:15:00.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tags.cs",
+              "DocumentMoniker": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\Models\\Tags.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Models\\Tags.cs",
+              "ToolTip": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\Models\\Tags.cs",
+              "RelativeToolTip": "TaskManager.Core\\Models\\Tags.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:15:47.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\Enums\\Priority.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Enums\\Priority.cs",
+              "ToolTip": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\Enums\\Priority.cs",
+              "RelativeToolTip": "TaskManager.Core\\Enums\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:11:08.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TaskManager.Shell.csproj",
-              "DocumentMoniker": "C:\\Users\\AGANETHED\\Desktop\\\u043D\u0430 \u043A\u043E\u043C\u043C\u0438\u0442\\TaskManagerSolution\\TaskManager.Shell\\TaskManager.Shell.csproj",
+              "DocumentMoniker": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Shell\\TaskManager.Shell.csproj",
               "RelativeDocumentMoniker": "TaskManager.Shell\\TaskManager.Shell.csproj",
-              "ToolTip": "C:\\Users\\AGANETHED\\Desktop\\\u043D\u0430 \u043A\u043E\u043C\u043C\u0438\u0442\\TaskManagerSolution\\TaskManager.Shell\\TaskManager.Shell.csproj",
+              "ToolTip": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Shell\\TaskManager.Shell.csproj",
               "RelativeToolTip": "TaskManager.Shell\\TaskManager.Shell.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-21T13:43:54.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T13:43:54.98Z"
             }
           ]
         }
