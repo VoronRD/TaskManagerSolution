@@ -85,6 +85,19 @@
         "build": {
           "buildTransitive/Prism.Events.targets": {}
         }
+      },
+      "TaskManager.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TaskManager.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskManager.Core.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       }
     }
   },
@@ -233,12 +246,18 @@
         "prism.events.9.0.537.nupkg.sha512",
         "prism.events.nuspec"
       ]
+    },
+    "TaskManager.Core/1.0.0": {
+      "type": "project",
+      "path": "../TaskManager.Core/TaskManager.Core.csproj",
+      "msbuildProject": "../TaskManager.Core/TaskManager.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
       "Newtonsoft.Json >= 13.0.3",
-      "Prism.Core >= 9.0.537"
+      "Prism.Core >= 9.0.537",
+      "TaskManager.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -272,7 +291,11 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj": {
+              "projectPath": "C:\\Users\\AGANETHED\\Desktop\\PL\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

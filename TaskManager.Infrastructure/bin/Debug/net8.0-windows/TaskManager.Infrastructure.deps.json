@@ -9,7 +9,8 @@
       "TaskManager.Infrastructure/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
-          "Prism.Core": "9.0.537"
+          "Prism.Core": "9.0.537",
+          "TaskManager.Core": "1.0.0"
         },
         "runtime": {
           "TaskManager.Infrastructure.dll": {}
@@ -61,6 +62,14 @@
             "fileVersion": "9.0.537.60525"
           }
         }
+      },
+      "TaskManager.Core/1.0.0": {
+        "runtime": {
+          "TaskManager.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -104,6 +113,11 @@
       "sha512": "sha512-Pzp5MGUuhAyKXZUbHVYNWLGF/eA3sScqDN6VrzbWlKj85R0IS0q+JXe99umynso2xhXAe+1jrQCCkgqmEFCBng==",
       "path": "prism.events/9.0.537",
       "hashPath": "prism.events.9.0.537.nupkg.sha512"
+    },
+    "TaskManager.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

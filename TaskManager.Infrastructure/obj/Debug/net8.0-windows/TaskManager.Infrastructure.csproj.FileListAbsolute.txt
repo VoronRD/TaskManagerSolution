@@ -37,12 +37,15 @@ C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Inf
 C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Infrastructure.deps.json
 C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Infrastructure.dll
 C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Core.dll
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Core.pdb
 C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.AssemblyInfo.cs
 C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.sourcelink.json
+C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskMana.DD0CDC6B.Up2Date
 C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.dll
 C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\refint\TaskManager.Infrastructure.dll
 C:\Users\AGANETHED\Desktop\PL\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.pdb

@@ -149,7 +149,8 @@
       "TaskManager.Infrastructure/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
-          "Prism.Core": "9.0.537"
+          "Prism.Core": "9.0.537",
+          "TaskManager.Core": "1.0.0"
         },
         "runtime": {
           "TaskManager.Infrastructure.dll": {
