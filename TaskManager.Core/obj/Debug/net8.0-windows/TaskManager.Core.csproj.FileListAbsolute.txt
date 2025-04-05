@@ -31,3 +31,15 @@ C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Cor
 C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Core\obj\Debug\net8.0-windows\refint\TaskManager.Core.dll
 C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Core\obj\Debug\net8.0-windows\TaskManager.Core.pdb
 C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Core\obj\Debug\net8.0-windows\ref\TaskManager.Core.dll
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Core\bin\Debug\net8.0-windows\TaskManager.Core.deps.json
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Core\bin\Debug\net8.0-windows\TaskManager.Core.dll
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Core\bin\Debug\net8.0-windows\TaskManager.Core.pdb
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Core\obj\Debug\net8.0-windows\TaskManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Core\obj\Debug\net8.0-windows\TaskManager.Core.AssemblyInfoInputs.cache
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Core\obj\Debug\net8.0-windows\TaskManager.Core.AssemblyInfo.cs
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Core\obj\Debug\net8.0-windows\TaskManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Core\obj\Debug\net8.0-windows\TaskManager.Core.sourcelink.json
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Core\obj\Debug\net8.0-windows\TaskManager.Core.dll
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Core\obj\Debug\net8.0-windows\refint\TaskManager.Core.dll
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Core\obj\Debug\net8.0-windows\TaskManager.Core.pdb
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Core\obj\Debug\net8.0-windows\ref\TaskManager.Core.dll

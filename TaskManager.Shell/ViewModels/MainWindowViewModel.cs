@@ -1,4 +1,9 @@
-﻿namespace TaskManager.Shell.ViewModels
+﻿using System.Collections.ObjectModel;
+using System.Diagnostics;
+using Prism.Mvvm;
+using Prism.Navigation.Regions;
+
+namespace TaskManager.Shell.ViewModels
 {
     public class MainWindowViewModel : BindableBase
     {
@@ -7,14 +12,12 @@
         public MainWindowViewModel(IRegionManager regionManager)
         {
             _regionManager = regionManager;
-            NavigateCommand = new DelegateCommand<string>(Navigate);
+           
         }
+      
 
-        public DelegateCommand<string> NavigateCommand { get; }
 
-        private void Navigate(string viewName)
-        {
-            _regionManager.RequestNavigate("MainRegion", viewName);
-        }
+
+
     }
 }

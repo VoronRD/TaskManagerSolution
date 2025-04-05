@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.TasksModule\obj\Debug\net8.0-windows\
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.TasksModule\obj\Debug\net8.0-windows\
 TaskManager.TasksModule
 none
 false
@@ -13,7 +13,7 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 262548976
 
 5-391246328
-207-352163930
+207-388691454
 Views\TaskEditView.xaml;Views\TaskListView.xaml;
 
 False

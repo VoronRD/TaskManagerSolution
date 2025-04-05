@@ -4,16 +4,16 @@
 library
 C#
 .cs
-C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.SettingsModule\obj\Debug\net8.0-windows\
 TaskManager.SettingsModule
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 
 1-1662754711
 
 5-1244455117
-207-352163930
+207-388691454
 View\SettingsView.xaml;
 
 True

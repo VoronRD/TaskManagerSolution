@@ -711,23 +711,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AGANETHED\\.nuget\\packages\\": {},
+    "C:\\Users\\Удальцов Александр\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Shell\\TaskManager.Shell.csproj",
+      "projectUniqueName": "C:\\Users\\Удальцов Александр\\Desktop\\TaskManagerSolution\\TaskManager.Shell\\TaskManager.Shell.csproj",
       "projectName": "TaskManager.Shell",
-      "projectPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Shell\\TaskManager.Shell.csproj",
-      "packagesPath": "C:\\Users\\AGANETHED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Shell\\obj\\",
+      "projectPath": "C:\\Users\\Удальцов Александр\\Desktop\\TaskManagerSolution\\TaskManager.Shell\\TaskManager.Shell.csproj",
+      "packagesPath": "C:\\Users\\Удальцов Александр\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Удальцов Александр\\Desktop\\TaskManagerSolution\\TaskManager.Shell\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\AGANETHED\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Удальцов Александр\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -742,20 +742,20 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj": {
-              "projectPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj"
+            "C:\\Users\\Удальцов Александр\\Desktop\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj": {
+              "projectPath": "C:\\Users\\Удальцов Александр\\Desktop\\TaskManagerSolution\\TaskManager.Core\\TaskManager.Core.csproj"
             },
-            "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj"
+            "C:\\Users\\Удальцов Александр\\Desktop\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Удальцов Александр\\Desktop\\TaskManagerSolution\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj"
             },
-            "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.SettingsModule\\TaskManager.SettingsModule.csproj": {
-              "projectPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.SettingsModule\\TaskManager.SettingsModule.csproj"
+            "C:\\Users\\Удальцов Александр\\Desktop\\TaskManagerSolution\\TaskManager.SettingsModule\\TaskManager.SettingsModule.csproj": {
+              "projectPath": "C:\\Users\\Удальцов Александр\\Desktop\\TaskManagerSolution\\TaskManager.SettingsModule\\TaskManager.SettingsModule.csproj"
             },
-            "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.TagsModule\\TaskManager.TagsModule.csproj": {
-              "projectPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.TagsModule\\TaskManager.TagsModule.csproj"
+            "C:\\Users\\Удальцов Александр\\Desktop\\TaskManagerSolution\\TaskManager.TagsModule\\TaskManager.TagsModule.csproj": {
+              "projectPath": "C:\\Users\\Удальцов Александр\\Desktop\\TaskManagerSolution\\TaskManager.TagsModule\\TaskManager.TagsModule.csproj"
             },
-            "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.TasksModule\\TaskManager.TasksModule.csproj": {
-              "projectPath": "C:\\Users\\AGANETHED\\Desktop\\на коммит\\TaskManagerSolution\\TaskManager.TasksModule\\TaskManager.TasksModule.csproj"
+            "C:\\Users\\Удальцов Александр\\Desktop\\TaskManagerSolution\\TaskManager.TasksModule\\TaskManager.TasksModule.csproj": {
+              "projectPath": "C:\\Users\\Удальцов Александр\\Desktop\\TaskManagerSolution\\TaskManager.TasksModule\\TaskManager.TasksModule.csproj"
             }
           }
         }
@@ -768,9 +768,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -812,7 +812,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

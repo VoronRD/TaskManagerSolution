@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="TaskEditView" Height="450" Width="800">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
     </Grid>
 </Window>

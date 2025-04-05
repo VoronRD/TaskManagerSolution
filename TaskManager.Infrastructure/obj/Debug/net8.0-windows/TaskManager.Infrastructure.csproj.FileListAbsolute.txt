@@ -34,3 +34,16 @@ C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Inf
 C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\refint\TaskManager.Infrastructure.dll
 C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
 C:\Users\AGANETHED\Desktop\на коммит\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\ref\TaskManager.Infrastructure.dll
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Infrastructure.deps.json
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Infrastructure.dll
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Infrastructure\bin\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.AssemblyInfo.cs
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.sourcelink.json
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.dll
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\refint\TaskManager.Infrastructure.dll
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\TaskManager.Infrastructure.pdb
+C:\Users\Удальцов Александр\Desktop\TaskManagerSolution\TaskManager.Infrastructure\obj\Debug\net8.0-windows\ref\TaskManager.Infrastructure.dll
